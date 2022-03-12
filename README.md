@@ -13,4 +13,5 @@ Minh Nguyen
 Link:
 <https://buzzdevalvis.github.io/>
 
+The following is a snapshot of the actual web application.
 <img src="demo.png"/>
