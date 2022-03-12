@@ -5,6 +5,8 @@ Alvis is a web-based algorithm visualizer based on the computer science coursewo
 of eight dubbed BuzzDev, Alvis features an interactive design utilizing React.js, Node.js, and various other technologies. 
 Special thanks to our client Dr. Yuan Cheng, and advisors Dr. Haiquan Chen and Dr. Jingwei Yang.
 
+This is a website showcasing the development of Alvis and the contributions of the team.
+
 Development team members: Alejandro Blanco, Ryan Blocker, Spencer Broden, Kimlee Chea, Evan Elias, David Garcia, Khanh Luu,
 Minh Nguyen
 
